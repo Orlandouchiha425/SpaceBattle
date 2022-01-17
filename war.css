@@ -1,0 +1,42 @@
+
+
+.storyTime{
+    background:linear-gradient(0.25turn, #2d4e34, #e7fad9, #526b51);
+    
+    
+
+
+}
+
+.game{
+    justify-content: space-around;
+    
+
+
+    display:flex;
+    background: linear-gradient(0.25turn, #2e8f43, #a7eb73, #9ff19c);
+
+
+    
+   
+   
+    
+  
+    
+   
+}
+
+body{
+    display: flex;
+   
+    background-image: url("./spaceship.webp");
+    background-size: cover;
+    width: 500px;
+    height: 300px;
+    margin:100px;
+    align-content: center;
+   
+    
+
+
+}
